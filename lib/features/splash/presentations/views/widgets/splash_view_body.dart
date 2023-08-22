@@ -1,4 +1,3 @@
-import 'package:bookly_app/core/utils/assets_manager.dart';
 import 'package:bookly_app/core/utils/go_router.dart';
 import 'package:bookly_app/features/splash/presentations/views/widgets/sliding_image.dart';
 import 'package:bookly_app/features/splash/presentations/views/widgets/sliding_text.dart';
